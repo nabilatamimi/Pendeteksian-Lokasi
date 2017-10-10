@@ -64,7 +64,9 @@ public class MainActivity extends AppCompatActivity implements
     // Member variables
     private PlaceListAdapter mAdapter;
     private RecyclerView mRecyclerView;
+    private boolean mIsEnabled;
     private GoogleApiClient mClient;
+    private com.example.android.shushme.Geofencing mGeofencing;
 
     /**
      * Called when the activity is starting
@@ -81,6 +83,7 @@ public class MainActivity extends AppCompatActivity implements
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
 
         mRecyclerView.setAdapter(mAdapter);
+
 
         // Build up the LocationServices API client
         // Uses the addApi method to request the LocationServices API
