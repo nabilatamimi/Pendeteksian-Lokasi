@@ -1,7 +1,7 @@
 # ShushMe
-Google Places API demo app
+# Pendeteksian Lokasi
 
-## Screenshots
-
-![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png) ![Screenshot3](screenshots/screen_3.png)
-![Screenshot4](screenshots/screen_4.png) ![Screenshot5](screenshots/screen_5.png) ![Screenshot6](screenshots/screen_6.png)
+![ScreenShot1](https://github.com/nabilatamimi/Pendeteksian-Lokasi/blob/master/Screenshot_20171102_061710%5B1%5D.jpg)
+![ScreenShot2](https://github.com/nabilatamimi/Pendeteksian-Lokasi/blob/master/Screenshot_20171102_061715%5B1%5D.jpg)
+![ScreenShot3](https://github.com/nabilatamimi/Pendeteksian-Lokasi/blob/master/Screenshot_20171102_061729%5B1%5D.jpg)
+![ScreenShot4](https://github.com/nabilatamimi/Pendeteksian-Lokasi/blob/master/Screenshot_20171102_061734%5B1%5D.jpg)
